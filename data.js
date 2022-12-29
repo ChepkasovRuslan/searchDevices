@@ -15,21 +15,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJ5eUx3bzhZNXlySk9oVldkbkNkS1RLcElwMjgyN2xOaGxkTnN5TEpoWlBNPSIsImlhdCI6MTY2NzQ3NzI2M30.L9yW__qVM60Xbyts5uHJQJa_JWqK0a8qOqMDyHLH3c8",
     "__v": 0,
     "iotDevice": {
-      "_id" : "6389f03e8c88ce1e2d13e752",
-      "thingName" : "007JDH70J8TAZ",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007JDH70J8TAZ",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007JDH70J8TAZ",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "dsfgdsfg",
-      "cid" : "7",
-      "Createdate" : "2022-12-02T12:31:58.246Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "6389f03e8c88ce1e2d13e752",
+      "thingName": "007JDH70J8TAZ",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007JDH70J8TAZ",
+      "thingId": "d42f0172-14e8-4d4b-890a-007JDH70J8TAZ",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "dsfgdsfg",
+      "cid": "7",
+      "Createdate": "2022-12-02T12:31:58.246Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-12-02_15:31"
+          "Createdate": "2022-12-02_15:31"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -58,21 +58,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJibjdOcm5NREVBNDNlOHA4aTAyVUMzbkVjd1hZOW14a1hjM2pBcEwxQlpJPSIsImlhdCI6MTY2NzQ3NzI1OX0.6y5TVigJK-2PBGmKs66bWDV5gGAUyPCfwo3acSX_klM",
     "__v": 0,
     "iotDevice": {
-      "_id" : "6389f0388c88ce1e2d13e74c",
-      "thingName" : "007K1IG0MMYPB",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007K1IG0MMYPB",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007K1IG0MMYPB",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "dsfgdsfg",
-      "cid" : "7",
-      "Createdate" : "2022-12-02T12:31:52.960Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "6389f0388c88ce1e2d13e74c",
+      "thingName": "007K1IG0MMYPB",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007K1IG0MMYPB",
+      "thingId": "d42f0172-14e8-4d4b-890a-007K1IG0MMYPB",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "dsfgdsfg",
+      "cid": "7",
+      "Createdate": "2022-12-02T12:31:52.960Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-12-02_15:31"
+          "Createdate": "2022-12-02_15:31"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -101,21 +101,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJtZnZWOHMxYXo5OXlnT2JBV2NZdlBneDU3NUEwZjFtNHNXTzlmYXBobC9vPSIsImlhdCI6MTY2NzQ3NzI1NX0.OV1xBmq9_bQwEov_5iTT-J2oLCTj4cvhCpoFXo3Jk5M",
     "__v": 0,
     "iotDevice": {
-      "_id" : "6389bc578c88ce1e2d13e746",
-      "thingName" : "007K5D1BWFWYL",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007K5D1BWFWYL",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007K5D1BWFWYL",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "ghfjfhjf",
-      "cid" : "7",
-      "Createdate" : "2022-12-02T08:50:31.019Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "6389bc578c88ce1e2d13e746",
+      "thingName": "007K5D1BWFWYL",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007K5D1BWFWYL",
+      "thingId": "d42f0172-14e8-4d4b-890a-007K5D1BWFWYL",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "ghfjfhjf",
+      "cid": "7",
+      "Createdate": "2022-12-02T08:50:31.019Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-12-02_11:50"
+          "Createdate": "2022-12-02_11:50"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -144,21 +144,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJNaW5GcXNsWjNsVU5wMHE0Ti85RnplZ3F1d3lKNDBPekxHdTdsNjN0QnQwPSIsImlhdCI6MTY2NzQ3NzI1MX0.rqDUPWKWYKYtQKTyN5XM2Ok_FiRU6VHnObHB6EL9MhE",
     "__v": 0,
     "iotDevice": {
-      "_id" : "634d07cd579f21844b06c392",
-      "thingName" : "007JF8S40KT4I",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007JF8S40KT4I",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007JF8S40KT4I",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "jkdfshkgds",
-      "cid" : "7",
-      "Createdate" : "2022-10-17T07:44:13.518Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "634d07cd579f21844b06c392",
+      "thingName": "007JF8S40KT4I",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007JF8S40KT4I",
+      "thingId": "d42f0172-14e8-4d4b-890a-007JF8S40KT4I",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "jkdfshkgds",
+      "cid": "7",
+      "Createdate": "2022-10-17T07:44:13.518Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-17_10:44"
+          "Createdate": "2022-10-17_10:44"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -187,21 +187,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJLczVOV0RCWWN2ZmgxQnJCT21EdlBxZGR0K0F4R3VIQkJOdFA5YW0vUU5nPSIsImlhdCI6MTY2NzQ3NzI0Nn0.-bZpL6RtsMO6MqE5321FyhpaG5sVFy8HkCVFOSrms6I",
     "__v": 0,
     "iotDevice": {
-      "_id" : "63493cf7e172d67aa3d3bb78",
-      "thingName" : "007JTBW4OE784",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007JTBW4OE784",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007JTBW4OE784",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "kczlkgfd",
-      "cid" : "7",
-      "Createdate" : "2022-10-14T10:41:59.058Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "63493cf7e172d67aa3d3bb78",
+      "thingName": "007JTBW4OE784",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007JTBW4OE784",
+      "thingId": "d42f0172-14e8-4d4b-890a-007JTBW4OE784",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "kczlkgfd",
+      "cid": "7",
+      "Createdate": "2022-10-14T10:41:59.058Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-14_13:41"
+          "Createdate": "2022-10-14_13:41"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -230,21 +230,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJGUDlnck1SVjUvSUJ4RjhrYkFJZGl0Nkk2UzRnQ0d6Tlk5aDNJZHA0Vk5jPSIsImlhdCI6MTY2NzQ3NzIzOX0.vQtA0yH1Ak5sSVeaat8sol5zeZDmDsGe9KPXPg9vLLg",
     "__v": 0,
     "iotDevice": {
-      "_id" : "63493cdee172d67aa3d3bb5f",
-      "thingName" : "007JDHPN5D26O",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007JDHPN5D26O",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007JDHPN5D26O",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "kczlkgfd",
-      "cid" : "7",
-      "Createdate" : "2022-10-14T10:41:34.619Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "63493cdee172d67aa3d3bb5f",
+      "thingName": "007JDHPN5D26O",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007JDHPN5D26O",
+      "thingId": "d42f0172-14e8-4d4b-890a-007JDHPN5D26O",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "kczlkgfd",
+      "cid": "7",
+      "Createdate": "2022-10-14T10:41:34.619Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-14_13:41"
+          "Createdate": "2022-10-14_13:41"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -273,21 +273,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJ4M3V0VEh3UEdPL3BmWVI4N2JXTUZKa3NmMUtkYldOTXliV1pDejdNcSs4PSIsImlhdCI6MTY2NjU5NzA5OX0.PGXDm0-GH9y4YgiWT3iIEE37s4wqo2lsscSGub0A3Ag",
     "__v": 0,
     "iotDevice": {
-      "_id" : "633e91ecc9459bfc47a52640",
-      "thingName" : "005KUG5KHVA8Q",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/005KUG5KHVA8Q",
-      "thingId" : "d42f0172-14e8-4d4b-890a-005KUG5KHVA8Q",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "sdgfsdgs",
-      "cid" : "5",
-      "Createdate" : "2022-10-06T08:29:32.471Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "633e91ecc9459bfc47a52640",
+      "thingName": "005KUG5KHVA8Q",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/005KUG5KHVA8Q",
+      "thingId": "d42f0172-14e8-4d4b-890a-005KUG5KHVA8Q",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "sdgfsdgs",
+      "cid": "5",
+      "Createdate": "2022-10-06T08:29:32.471Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-06_11:29"
+          "Createdate": "2022-10-06_11:29"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VLS100US",
@@ -316,21 +316,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiI3eHRTNi83Mm1LZkI1eHZ5d2p1dlE4cC9SQmZ5RnZZZHJGeTdZWkp0UURjPSIsImlhdCI6MTY2NjU5NzA5Mn0.MFmBuOIBhj4CH8eW9a7VzLtL1eRhJ9DAOWoj_RvnAEs",
     "__v": 0,
     "iotDevice": {
-      "_id" : "633e8e563e1c5212307806e5",
-      "thingName" : "005JV4A56OVA4",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/005JV4A56OVA4",
-      "thingId" : "d42f0172-14e8-4d4b-890a-005JV4A56OVA4",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "ghfghjfgh",
-      "cid" : "5",
-      "Createdate" : "2022-10-06T08:14:14.113Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "633e8e563e1c5212307806e5",
+      "thingName": "005JV4A56OVA4",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/005JV4A56OVA4",
+      "thingId": "d42f0172-14e8-4d4b-890a-005JV4A56OVA4",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "ghfghjfgh",
+      "cid": "5",
+      "Createdate": "2022-10-06T08:14:14.113Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-06_11:14"
+          "Createdate": "2022-10-06_11:14"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VLS100US",
@@ -359,21 +359,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJLelhjNkN1ZUZVbEtSWGJ0N0JoaG0rK0JyZUJkb2hOeXhDVUd0WXRPUjNrPSIsImlhdCI6MTY2NzQ3NzI2N30.M1S7cc8P-Y9twmJM9jYRyMNLxVqjRfLx_k8jtDiJKeE",
     "__v": 0,
     "iotDevice": {
-      "_id" : "633e8e403e1c5212307806a9",
-      "thingName" : "005K5SLV4W6LD",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/005K5SLV4W6LD",
-      "thingId" : "d42f0172-14e8-4d4b-890a-005K5SLV4W6LD",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "ghfghjfgh",
-      "cid" : "5",
-      "Createdate" : "2022-10-06T08:13:52.127Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "633e8e403e1c5212307806a9",
+      "thingName": "005K5SLV4W6LD",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/005K5SLV4W6LD",
+      "thingId": "d42f0172-14e8-4d4b-890a-005K5SLV4W6LD",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "ghfghjfgh",
+      "cid": "5",
+      "Createdate": "2022-10-06T08:13:52.127Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-10-06_11:13"
+          "Createdate": "2022-10-06_11:13"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VUL100",
@@ -402,21 +402,21 @@ export const devices = [
     "apiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aGluZ05hbWUiOiJ4MW5vdE5UTE9uZEZHck1DMWN0UkNmYXJTWG5TR2NGYkVwVW5Qb0VsWVNZPSIsImlhdCI6MTY2NjM0ODM4OH0.ThRGpVvJRCStt7nNcCVC2gkKKp5gqG0OZh_t51A-USE",
     "__v": 0,
     "iotDevice": {
-      "_id" : "628b3fed2cb8742153f0139f",
-      "thingName" : "007JH2LY8OURV",
-      "thingArn" : "arn:aws:iot:ap-southeast-1:472819633775:thing/007JH2LY8OURV",
-      "thingId" : "d42f0172-14e8-4d4b-890a-007JH2LY8OURV",
-      "appId" : "5b236954c4fbb64e7ddf36c5",
-      "thingGroupName" : "hnhjjjj",
-      "cid" : "7",
-      "Createdate" : "2022-05-23T08:03:57.979Z",
-      "certificateId" : [],
-      "attributes" : [
+      "_id": "628b3fed2cb8742153f0139f",
+      "thingName": "007JH2LY8OURV",
+      "thingArn": "arn:aws:iot:ap-southeast-1:472819633775:thing/007JH2LY8OURV",
+      "thingId": "d42f0172-14e8-4d4b-890a-007JH2LY8OURV",
+      "appId": "5b236954c4fbb64e7ddf36c5",
+      "thingGroupName": "hnhjjjj",
+      "cid": "7",
+      "Createdate": "2022-05-23T08:03:57.979Z",
+      "certificateId": [],
+      "attributes": [
         {
-          "Createdate" : "2022-05-23_11:03"
+          "Createdate": "2022-05-23_11:03"
         }
       ],
-      "__v" : 0
+      "__v": 0
     },
     "hasCsvModel": true,
     "product_type": "VLS103US",
@@ -428,5 +428,5 @@ export const devices = [
     "isPacked": false,
     "isTested": false,
     "pcbaPassed": false
-  }
+  },
 ]

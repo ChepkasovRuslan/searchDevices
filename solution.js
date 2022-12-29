@@ -12,7 +12,17 @@ const searchObject = {
 };
 
 const searchDevices = (devices, searchObject) => {
+  let result = devices.filter(el => {
+    if (searchObject.searchText && !el.iotDevice.thingGroupName.includes(searchObject.searchText)) return false;
+    if (searchObject.year && !el.iotDevice.Createdate.split('-')[0] == searchObject.year) return false;
+    if (searchObject.month && !el.iotDevice.Createdate.split('-')[1] == searchObject.month) return false;
 
+    return true;
+  });
+
+  result = result.sort((a, b) => a[searchObject.sortBy] > b[searchObject.sortBy] ? 1 : -1);
+
+  return searchObject.sortDirection === "asc" ? result : result.reverse();
 }
 
 console.log(searchDevices(devicesArray, searchObject));
