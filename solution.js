@@ -12,6 +12,8 @@ const searchObject = {
 };
 
 const searchDevices = (devices, searchObject) => {
+  if (Object.values(searchObject).length < 1 || !devices) return devices;
+
   let result = devices.filter(el => {
     if (searchObject.searchText && !el.iotDevice.thingGroupName.includes(searchObject.searchText)) return false;
     if (searchObject.year && !el.iotDevice.Createdate.split('-')[0] == searchObject.year) return false;
@@ -22,9 +24,14 @@ const searchDevices = (devices, searchObject) => {
 
   result = result.sort((a, b) => a[searchObject.sortBy] > b[searchObject.sortBy] ? 1 : -1);
 
-  return searchObject.sortDirection === "asc" ? result : result.reverse();
+  if (searchObject.sortDirection === "asc") return result;
+  if (searchObject.sortDirection === "desc") return result.reverse();
 }
 
+const mostRecent = (devices, searchObject) =>
+  searchDevices(devices, searchObject).reduce((acc, val) => new Date(acc.iotDevice.Createdate) > new Date(val.iotDevice.Createdate) ? acc : val);
+
 console.log(searchDevices(devicesArray, searchObject));
+console.log(mostRecent(devicesArray, searchObject));
 
 // testsTask(searchDevices); //Не удалять, нужно для проверки задачи
